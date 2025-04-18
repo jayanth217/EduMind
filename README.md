@@ -6,11 +6,11 @@
 
 ## 🚀 Features
 
-- ✅ **Offline LLM Support** – Powered by local models like Mistral 7B via [Ollama](https://ollama.com)
+- ✅ **Offline LLM Support** – Powered by local models like [Mistral 7B via Ollama](https://ollama.com)
 - 📄 **Summarize Study Material** – Upload PDFs or text and get concise summaries
 - ❓ **Real-Time Q&A** – Ask any question and get instant answers from your notes
 - 🧠 **Auto Quiz Generator** – Generate MCQs based on your uploaded content
-- 🔍 **Vector Search Engine** – Search semantically across your materials with FAISS/ChromaDB
+- 🔍 **Vector Search Engine** – Search semantically across your materials with FAISS or ChromaDB
 - 🔐 **Data Privacy First** – Everything runs locally, with no external API calls
 
 ---
@@ -18,10 +18,17 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: React + Tailwind CSS + ShadCN UI  
-- **Backend**: Python 
-- **LLMs**: Mistral 7B / Gemma / Phi via Ollama  
+- **Backend**: Python  
+- **LLMs**: Mistral 7B via Ollama  
 - **Vector DB**: FAISS or ChromaDB  
 - **PDF/Text Parsing**: PyMuPDF, LangChain
 
 ---
+
+## 🔮 Future Improvements
+
+- ✍️ Handwritten note OCR support  
+- 🃏 In-app flashcards with spaced repetition  
+- 📊 Personalized study analytics  
+- 🌐 Browser extension for quick access
 

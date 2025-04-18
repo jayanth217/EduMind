@@ -21,8 +21,7 @@
 - **Backend**: Python 
 - **LLMs**: Mistral 7B / Gemma / Phi via Ollama  
 - **Vector DB**: FAISS or ChromaDB  
-- **PDF/Text Parsing**: PyMuPDF, LangChain  
-- **Containerization**: Docker (optional for deployment)
+- **PDF/Text Parsing**: PyMuPDF, LangChain
 
 ---
 

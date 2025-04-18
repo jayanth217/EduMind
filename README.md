@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: React + Tailwind CSS + ShadCN UI  
-- **Backend**: FastAPI  
+- **Backend**: Python 
 - **LLMs**: Mistral 7B / Gemma / Phi via Ollama  
 - **Vector DB**: FAISS or ChromaDB  
 - **PDF/Text Parsing**: PyMuPDF, LangChain  

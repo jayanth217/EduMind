@@ -1,34 +1,54 @@
-# EduMind 🧠📚
+# 📚 EduMind – AI-Powered Interactive Study Companion
 
-**EduMind** is an AI-powered, privacy-focused study companion designed to work completely offline. It provides real-time assistance to students through self-hosted LLMs, intelligent summarization, quiz generation, and semantic search — all in one intuitive platform.
-
----
-
-## 🚀 Features
-
-- ✅ **Offline LLM Support** – Powered by local models like [Mistral 7B via Ollama](https://ollama.com)
-- 📄 **Summarize Study Material** – Upload PDFs or text and get concise summaries
-- ❓ **Real-Time Q&A** – Ask any question and get instant answers from your notes
-- 🧠 **Auto Quiz Generator** – Generate MCQs based on your uploaded content
-- 🔍 **Vector Search Engine** – Search semantically across your materials with FAISS or ChromaDB
-- 🔐 **Data Privacy First** – Everything runs locally, with no external API calls
+**EduMind** is an AI-powered educational platform that helps students automatically generate quizzes, summarize study content, and interact with an AI tutor. It supports document uploads (PDF/Word) or pasted text and provides instant quiz feedback and summaries.
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Features
 
-- **Frontend**: React + Tailwind CSS + ShadCN UI  
-- **Backend**: Python  
-- **LLMs**: Mistral 7B via Ollama  
-- **Vector DB**: FAISS or ChromaDB  
-- **PDF/Text Parsing**: PyMuPDF, LangChain
+- 📄 **Quiz Generator**  
+  Upload study material in PDF, Word, or plain text format to generate:
+  - Multiple Choice Questions (MCQs)
+  - True/False Questions
+  - Fill-in-the-Blank Questions
+
+- 💬 **AI Chat**  
+  Ask questions or clarify doubts through a chat powered by `mistral:7b` via `langchain_ollama`.
+
+- 📝 **Summarization**  
+  Get clear and concise summaries (1–2 paragraphs) from documents.
+
+- 🔍 **Search PDFs**  
+  Access uploaded PDFs, search, and download them locally for offline use.
 
 ---
 
-## 🔮 Future Improvements
+## 🖼️ Screenshots
 
-- ✍️ Handwritten note OCR support  
-- 🃏 In-app flashcards with spaced repetition  
-- 📊 Personalized study analytics  
-- 🌐 Browser extension for quick access
+| Login | Register | Dashboard |
+|:-----:|:--------:|:---------:|
+| ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121731.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121843.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121925.png) |
 
+| AI Chat | Quiz | Results |
+|:------:|:----:|:------:|
+| ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122011.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122053.png)<br>![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122120.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20140251.png) |
+
+| Summary | Search PDFs |
+|:-------:|:-----------:|
+| ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122217.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122823.png) |
+
+---
+
+## ✅ Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v20.17.0 or higher)
+- [Python](https://www.python.org/) (v3.8 or higher)
+- [Git](https://git-scm.com/)
+- [Ollama](https://ollama.ai) (for running the `mistral:7b` LLM)
+
+To pull the AI model:
+
+```bash
+ollama pull mistral:7b

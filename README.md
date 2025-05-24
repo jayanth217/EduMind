@@ -27,7 +27,7 @@
 
 | Login | Register | Dashboard |
 |:-----:|:--------:|:---------:|
-| ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121731.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121843.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121925.png) |
+| ![](https://github.com/jayanth217/EduMind/blob/main/assestslogin.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121843.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121925.png) |
 
 | AI Chat | Quiz | Results |
 |:------:|:----:|:------:|

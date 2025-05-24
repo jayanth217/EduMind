@@ -27,17 +27,16 @@
 
 | Login | Register | Dashboard |
 |:-----:|:--------:|:---------:|
-| ![](https://github.com/jayanth217/EduMind/blob/main/assestslogin.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121843.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20121925.png) |
+| ![](https://github.com/jayanth217/Edumind/blob/main/output_images/login.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/register.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/dashboard.png) |
 
 | AI Chat | Quiz | Results |
 |:------:|:----:|:------:|
-| ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122011.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122053.png)<br>![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122120.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20140251.png) |
+| ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png)<br>![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) |
 
 | Summary | Search PDFs |
 |:-------:|:-----------:|
-| ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122217.png) | ![](https://github.com/Pranavsai1410/EduMind/blob/main/assests/Screenshot%202025-04-25%20122823.png) |
+| ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) |
 
----
 
 ## ✅ Prerequisites
 

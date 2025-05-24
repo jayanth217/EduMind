@@ -53,15 +53,17 @@ To pull the AI model:
 ```bash
 ollama pull mistral:7b
 ```
----
-🚀 Getting Started
 
-Step 1: Clone the Repository
+---
+
+## 🚀 Getting Started
+
+### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/jayanth217/EduMind.git
 cd EduMind
 ```
-Step 2: Backend Setup
+### Step 2: Backend Setup
 ```bash
 cd Backend
 
@@ -73,7 +75,7 @@ python grok.py
 ```
 >Server runs on: http://0.0.0.0:5000
 
-Step 3: Frontend Setup
+### Step 3: Frontend Setup
 ```bash
 cd ../Frontend
 
@@ -92,7 +94,6 @@ npm run dev
 
 ### 📥 Generate a Quiz
 
-- Navigate to: [http://localhost:3003/quiz/display](http://localhost:3003/quiz/display)
 - Upload a study document or paste content
 - Select the number of questions and question type
 - Click **Generate Quiz**

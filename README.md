@@ -52,3 +52,89 @@ To pull the AI model:
 
 ```bash
 ollama pull mistral:7b
+```
+---
+🚀 Getting Started
+
+Step 1: Clone the Repository
+```bash
+git clone https://github.com/jayanth217/EduMind.git
+cd EduMind
+```
+Step 2: Backend Setup
+```bash
+cd Backend
+
+# Install dependencies
+pip install flask langchain_ollama PyPDF2 python-docx flask_cors
+
+# Start Flask server
+python grok.py
+```
+>Server runs on: http://0.0.0.0:5000
+
+Step 3: Frontend Setup
+```bash
+cd ../Frontend
+
+# Install frontend dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+>Frontend runs on: http://localhost:3003
+
+
+---
+
+## 🧪 Usage Guide
+
+### 📥 Generate a Quiz
+
+- Navigate to: [http://localhost:3003/quiz/display](http://localhost:3003/quiz/display)
+- Upload a study document or paste content
+- Select the number of questions and question type
+- Click **Generate Quiz**
+
+### ✅ Take the Quiz
+
+- After generation, you'll be redirected automatically
+- Submit your answers
+- Instantly view your score and feedback
+
+### 🤖 Chat with AI
+
+- Visit the **AI Chat** section
+- Pose study-related questions to the `mistral:7b` LLM
+
+### 📚 Summarization
+
+- Upload your PDFs or Word documents
+- Receive concise summaries in 1–2 paragraphs
+
+### 🔍 Search PDFs
+
+- Browse uploaded files
+- Download any document for local use
+
+>Download any document for local use
+
+
+---
+
+
+## 👨‍💻 Developed By
+
+- **Jayanth**  
+  GitHub: [@jayanth217](https://github.com/jayanth217)
+
+- **Pranavsai**  
+  GitHub: [@Pranavsai1410](https://github.com/Pranavsai1410)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute it.

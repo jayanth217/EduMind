@@ -25,17 +25,18 @@
 
 ## 🖼️ Screenshots
 
+
 | Login | Register | Dashboard |
 |:-----:|:--------:|:---------:|
-| ![](https://github.com/jayanth217/Edumind/blob/main/output_images/login.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/register.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/dashboard.png) |
+| ![](https://github.com/jayanth217/EduMind/blob/main/output_images/login.jpg) | ![](https://github.com/jayanth217/EduMind/blob/main/output_images/register.jpg) | ![](https://github.com/jayanth217/EduMind/blob/main/output_images/Dashboard.jpg) |
 
 | AI Chat | Quiz | Results |
 |:------:|:----:|:------:|
-| ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png)<br>![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) |
+| ![](https://github.com/jayanth217/Edumind/blob/main/output_images/AI_chat.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/Quiz_generator.png)<br>![](https://github.com/jayanth217/Edumind/blob/main/output_images/quiz_questions.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/quiz_result.png) |
 
 | Summary | Search PDFs |
 |:-------:|:-----------:|
-| ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/screenshot1.png) |
+| ![](https://github.com/jayanth217/Edumind/blob/main/output_images/summarization.png) | ![](https://github.com/jayanth217/Edumind/blob/main/output_images/search_materials.png) |
 
 
 ## ✅ Prerequisites
